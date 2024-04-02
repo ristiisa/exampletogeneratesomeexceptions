@@ -1,0 +1,12 @@
+name: lotsofexceptions
+description: A sample command-line application.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.3.1
+
+# Add regular dependencies here.
+dependencies:
+
+dev_dependencies:
